@@ -1,0 +1,24 @@
+{
+  "name": "zhihuapi",
+  "version": "1.0.0",
+  "description": "zhihu api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.duapp.com/appidbbf4dbrg0i"
+  },
+  "keywords": [
+    "zhihu",
+    "api"
+  ],
+  "author": "myl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
